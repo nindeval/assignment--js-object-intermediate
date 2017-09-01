@@ -1,15 +1,15 @@
-// Ex-05 reverseObject()
-
-// Write a function called reverseObject(). It should take as input an object,
-// and it should output a new object where the keys and values are reversed.
-
-
-
-
-
+/**
+ * reverseObject()
+ *
+ * Write a function called reverseObject(). It should take as input an object,
+ * and it should output a new object where the keys and values are reversed.
+ *
+**/
 
 
- 
+
+
+
 
 
 //*~*~*-*~*~*~*~*~ Don't Touch *~*~*~*~*~*~*~*~*~*~*~
