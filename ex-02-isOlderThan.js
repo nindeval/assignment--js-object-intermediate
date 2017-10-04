@@ -2,7 +2,7 @@
  * isOlderThan()
  *
  * Write a method called .isOlderThan() that accepts a number argument
- * and returns a boolean value of `false` if the input number is less
+ * and returns a boolean value of `true` if the input number is less
  * than the value of the `.age` property
  *
 **/
@@ -33,6 +33,6 @@ console.assert (someGirl.isOlderThan(20) === false)
 // Instructor Evaluation
 // checking `isOlderThan` method with other context with .call method
 //   https://docs.microsoft.com/en-us/scripting/javascript/reference/call-method-function-javascript
-console.assert( someGirl.isOlderThan.call({ age: 20 }) === false)
-console.assert( someGirl.isOlderThan.call({ age: 30 }) === false)
-console.assert( someGirl.isOlderThan.call({ age: 15 }) === true)
+console.assert( someGirl.isOlderThan.call({ age: 20 }, 34) === false)
+console.assert( someGirl.isOlderThan.call({ age: 30 }, 32) === false)
+console.assert( someGirl.isOlderThan.call({ age: 15 }, 12) === true)
