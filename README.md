@@ -1,8 +1,8 @@
-# JS Iteration Basics
+# JS Object Intermediate
 
 ## The Assignment
 
-The purpose of this assignment is to improve your understanding and develop your skills with iteration, one of the foundational concepts of programming and software development. For these exercises, you will need to use for-loops to arrive at the correct solution. **You are not to use helper methods like`.split()` , `substr()`, `.reverse()`.**
+The purpose of this assignment is to improve your understanding of object methods and iterating over objects with `for...in` loops. 
 
 
 ### Setup
