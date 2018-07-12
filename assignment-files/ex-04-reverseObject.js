@@ -12,17 +12,17 @@
  *
 **/
 
+//++ YOUR CODE HERE
 
-function reverseObject(objArg){
-	var objReversed = {}
 
-	for (var propStr in objArg) {
-		var objPropVal = objArg[propStr]
-		objReversed[objPropVal] = propStr
-	}
 
-	return objReversed
-}
+
+
+
+
+
+
+
 
 
 // *~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*
