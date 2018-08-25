@@ -34,3 +34,4 @@ Here is how you will answer each exercise:
 
 **Note**
 For the `ex-01`, `ex-02`, and `ex-03` you will need to write *the functions as methods*. 
+# assignment--js-object-intermediate
